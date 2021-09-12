@@ -1,2 +1,2 @@
-# World_Weather_Anlaysis
+# World_Weather_Analysis
 Week 6 Weather Assignment
